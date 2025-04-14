@@ -1,1 +1,3 @@
 # YOULearn.com-A-Case-Study-in-Cloud-Based-Data-Management
+
+As a Data Science student, I designed this end-to-end cloud data architecture for YOULearn.com to demonstrate how online learning platforms can process and analyze both batch and real-time data at scale. Built on Azure’s lakehouse model (Bronze-Silver-Gold), it integrates services like Data Factory, Event Hub, Synapse Analytics, Power BI, and Azure ML to deliver insights such as course performance, student progress, and personalized recommendations. This project showcases my learning in cloud architecture, data engineering, and applied analytics.
